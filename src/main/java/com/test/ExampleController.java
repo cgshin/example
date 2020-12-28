@@ -14,6 +14,7 @@ public class ExampleController {
 		map.put("name", "ев╫╨ем1");
 		map.put("message", "Hello~~");
 		map.put("message2", "Hello2~~");
+		map.put("message3", "Hello3~~");
 		
 		return map;
 	}
