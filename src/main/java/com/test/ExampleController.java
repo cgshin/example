@@ -13,6 +13,7 @@ public class ExampleController {
 		map.put("id", "test1");
 		map.put("name", "ев╫╨ем1");
 		map.put("message", "Hello~~");
+		map.put("message2", "Hello2~~");
 		
 		return map;
 	}
